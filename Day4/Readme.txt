@@ -1,4 +1,4 @@
-Day 4 of 100 #100DaysOfCode 
+Day 4 of 100  #100DaysOfCode 
 
 Solved 3 problems today based on greedy approach and window implementation. 
 
